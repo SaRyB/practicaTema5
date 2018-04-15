@@ -46,7 +46,7 @@ namespace Ejercicio_1_Practica_6._1__control_de_versiones_
 
         private void listaAlumnos_TextChanged(object sender, EventArgs e)
         {
-
+            //hola
         }
     }
 }
